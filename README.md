@@ -5,29 +5,36 @@ A comprehensive collection of mead recipes and brewing guides optimized for Flor
 ## 🍯 Recipe Collection
 
 ### Traditional & Classic Meads
-- [Traditional Mead](recipes/traditional-mead.md) - Semi-sweet traditional mead with tropical fruit complexity
-- [Toffee Caramel Bochet Mead](recipes/toffee-caramel-bochet-mead.md) - Rich caramelized honey with Voss Kveik enhancement
+- [Traditional Mead](Traditional_Mead_Recipe_Voss_Kveik.md) - Semi-sweet traditional mead with tropical fruit complexity
+- [Toffee Caramel Bochet Mead](Toffee_Caramel_Bochet_Mead_Recipe_Voss_Kveik.md) - Rich caramelized honey with Voss Kveik enhancement
 
 ### Fruit & Botanical Meads
-- [Coconut Mead](recipes/coconut-mead.md) - Sophisticated tropical mead with toasted coconut
-- [Rose Hibiscus Mead](recipes/rose-hibiscus-mead.md) - Vibrant floral mead with exotic complexity
-- [Basil Tart Fruit Mead](recipes/basil-tart-fruit-mead.md) - Complex herbal-fruit combination
+- [Coconut Mead](Coconut_Mead_Recipe_Voss_Kveik.md) - Sophisticated tropical mead with toasted coconut
+- [Rose Hibiscus Mead](Rose_Hibiscus_Mead_Recipe_Voss_Kveik.md) - Vibrant floral mead with exotic complexity
+- [Basil Tart Fruit Mead](Basil_Tart_Fruit_Mead_Recipe_Voss_Kveik.md) - Complex herbal-fruit combination
 
 ### Spiced & Flavored Meads
-- [Chai Tea Mead](recipes/chai-tea-mead.md) - Warming spiced mead with exotic character
-- [Coffee Mead](recipes/coffee-mead.md) - Coffee-honey fusion with clean fermentation profile
+- [Chai Tea Mead](Chai_Tea_Mead_Recipe_Voss_Kveik.md) - Warming spiced mead with exotic character
+- [Coffee Mead](Coffee_Mead_Recipe_Voss_Kveik.md) - Coffee-honey fusion with clean fermentation profile
+
+### Non-Alcoholic Mock Meads
+- [Mason Jar Mock Mead](Mason_Jar_Mock_Mead_Recipe.md) - Simple 1-quart non-alcoholic honey beverage
+- [1 Gallon Spiced Sparkling Mock Mead](1_Gallon_Spiced_Sparkling_Mock_Mead_Recipe.md) - Carbonated spiced honey beverage
+- [Chai Tea Sparkling Mock Mead](Chai_Tea_Sparkling_Mock_Mead_Recipe.md) - Existing spiced mock mead recipe
+- [Strawberry Mango Mock Mead](Strawberry_Mango_Mock_Mead_Recipe.md) - Existing fruit mock mead recipe
+- [Mock Mead Recipe (Non-Alcoholic)](Mock_Mead_Recipe_Non-Alcoholic.md) - Existing basic mock mead
 
 ## 📚 Technical Guides
 
 ### Fermentation & Yeast
-- [Voss Kveik Technical Guidelines](guides/voss-kveik-technical-guidelines.md) - Complete guide to using Voss Kveik at room temperature
-- [Fermentation Timeline - Voss Kveik](guides/fermentation-timeline-voss-kveik.md) - Real-world fermentation tracking data
-- [Coffee Mead Complete Brewing Guide](guides/coffee-mead-complete-brewing-guide.md) - In-depth coffee mead techniques
+- [Universal Technical Guidelines for Voss Kveik](Universal_Technical_Guidelines_Voss_Kveik.md) - Complete guide to using Voss Kveik at room temperature
+- [Traditional Mead Fermentation Timeline](Traditional_Mead_Fermentation_Timeline_Voss_Kveik.md) - Real-world fermentation tracking data
+- [Coffee Mead Complete Brewing Guide](Coffee_Mead_Complete_Brewing_Guide_Voss_Kveik.md) - In-depth coffee mead techniques
 
-### Hot Climate Brewing
-- [Hot Weather Mead Making in Florida](guides/hot-weather-mead-making-florida.md) - Comprehensive guide to garage brewing in extreme heat
-- [Florida Fermentation Chamber Design](guides/florida-fermentation-chamber-design.md) - Professional-quality temperature control system ($200-350)
-- [Ultra-Budget Ice-Cooled Chamber](guides/ultra-budget-ice-cooled-fermentation-chamber.md) - Effective cooling for under $125
+### Hot Climate Brewing Infrastructure
+- [Hot Weather Mead Making in Florida Garages](Hot_Weather_Mead_Making_Florida_Garages.md) - Comprehensive guide to garage brewing in extreme heat
+- [Florida Fermentation Chamber Design](Florida_Fermentation_Chamber_Design_Guide.md) - Professional-quality temperature control system ($200-350)
+- [Ultra-Budget Ice-Cooled Chamber](Ultra_Budget_Ice_Cooled_Fermentation_Chamber.md) - Effective cooling for under $125
 
 ## 🌡️ Key Innovations
 
@@ -109,16 +116,45 @@ Real Florida brewers achieving consistent results:
 ## 🚀 Quick Start Guide
 
 ### For Beginners
-1. **Start simple**: Try the [Traditional Mead](recipes/traditional-mead.md) recipe
+1. **Start simple**: Try the [Traditional Mead](Traditional_Mead_Recipe_Voss_Kveik.md) recipe
 2. **Get Voss Kveik**: LalBrew VOSS is widely available and reliable
 3. **Basic cooling**: Even a simple ice rotation system makes a huge difference
 4. **Monitor closely**: Daily temperature and gravity readings during fermentation
 
 ### For Advanced Brewers
-1. **Build a chamber**: Start with the [Florida Chamber Design](guides/florida-fermentation-chamber-design.md)
-2. **Experiment with recipes**: Try the complex [Chai Tea Mead](recipes/chai-tea-mead.md)
-3. **Track performance**: Use the [Fermentation Timeline](guides/fermentation-timeline-voss-kveik.md) as a reference
+1. **Build a chamber**: Start with the [Florida Chamber Design](Florida_Fermentation_Chamber_Design_Guide.md)
+2. **Experiment with recipes**: Try the complex [Chai Tea Mead](Chai_Tea_Mead_Recipe_Voss_Kveik.md)
+3. **Track performance**: Use the [Fermentation Timeline](Traditional_Mead_Fermentation_Timeline_Voss_Kveik.md) as a reference
 4. **Scale up**: Multiple batches with proven systems
+
+## 📊 Recipe Quick Reference
+
+### By Difficulty Level
+**Beginner Friendly:**
+- Traditional Mead (2.75 lbs honey, 1 gallon)
+- Mason Jar Mock Mead (non-alcoholic, 15 minutes)
+- Coconut Mead (simple toasted coconut addition)
+
+**Intermediate:**
+- Coffee Mead (requires cold brew coffee preparation)
+- Rose Hibiscus Mead (botanical extraction process)
+- Toffee Caramel Bochet Mead (honey caramelization technique)
+
+**Advanced:**
+- Basil Tart Fruit Mead (complex timing for fruit and herb additions)
+- Chai Tea Mead (multiple spice preparation phases)
+
+### By Timeline (Alcoholic Meads)
+**Fastest (4-5 weeks to bottling):**
+- All Voss Kveik recipes ferment 7-14 days vs. traditional 2-6 weeks
+- Ready to drink: 5-6 weeks minimum
+- Peak flavor: 3-8 months
+
+**Timeline Breakdown:**
+- Days 1-14: Primary fermentation
+- Weeks 2-4: Clearing and secondary
+- Week 5: Bottling ready
+- Weeks 6+: Drinking quality improves
 
 ## 📞 Troubleshooting
 
@@ -128,12 +164,20 @@ Real Florida brewers achieving consistent results:
 - **Off flavors**: Temperature control and proper sanitation are critical
 - **Cooling problems**: Insulation gaps and thermal bridging are common culprits
 
+### Temperature Solutions
+- **Too hot**: Increase ice rotation, check insulation sealing
+- **Too cold**: Reduce ice rotation, add thermal mass
+- **Fluctuating**: Add more thermal mass, improve insulation
+
 ## 🔄 Updates & Improvements
 
 This repository represents ongoing development of hot-climate brewing techniques. All recipes and guides are battle-tested in real Florida garage conditions with documented results.
 
-### Contributing
-These techniques work because they're based on actual brewing experience in challenging conditions. If you have improvements or variations that work, consider sharing your results.
+### Recipe Development Philosophy
+- **Work WITH the heat** rather than fighting it
+- **Voss Kveik as foundation** for reliable hot-weather fermentation
+- **Cost-effective solutions** using common materials
+- **Safety first** in extreme temperature environments
 
 ---
 
